@@ -7,16 +7,6 @@ L’objectif est de collecter des métriques système (CPU, RAM, disque, réseau
 
 ---
 
-##  Objectifs du projet
-
-- Déployer un serveur Zabbix sur AWS
-- Superviser des instances Linux et Windows
-- Installer et configurer les agents Zabbix
-- Visualiser les métriques via des graphiques
-- Valider la communication agent ↔ serveur
-- Appliquer les bonnes pratiques cloud et sécurité
-
-
 ##  Objectif du Projet
 
 - Centraliser la supervision des ressources Cloud
@@ -27,7 +17,8 @@ L’objectif est de collecter des métriques système (CPU, RAM, disque, réseau
 
  ##  Schéma Global de l'Architecture
  
-<img width="937" height="606" alt="Capture d&#39;écran 2025-12-31 161153" src="https://github.com/user-attachments/assets/0b6f8664-395d-4585-a287-cceb3b627373" />
+![Architecture](images/architecture.png)
+
 
 ##  Architecture du projet
 
