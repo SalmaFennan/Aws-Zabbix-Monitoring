@@ -175,7 +175,7 @@ Password: zabbix
 ![Dashboard Zabbix](images/Dashboard.png)
 
 ### 🟢 Statut des hôtes supervisés
-![Hosts Status](images\agentsZabbix.png)
+![Hosts Status](images/agentsZabbix.png)
 
 ![graph et metrique](images/graphLinux1.png)
 
@@ -183,7 +183,7 @@ Password: zabbix
 
 ![graph et metrique](images/graphWindows1.png)
 
-![graph et metrique](images/cpuJumpsClientLinux.png)
+![graph et métrique](images/cpuJumpsClientLinux.png)
 
 
 ##  Cas d’Usage
