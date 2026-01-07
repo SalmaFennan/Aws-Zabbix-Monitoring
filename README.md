@@ -171,12 +171,11 @@ Password: zabbix
 
 * Infrastructure prête pour alertes et notifications 
 
-![Architecture AWS Zabbix](images/architecture.png)
 
 ![Dashboard Zabbix](images/Dashboard.png)
 
 ### 🟢 Statut des hôtes supervisés
-![Hosts Status](images/agentZabbix.png)
+![Hosts Status](images\agentsZabbix.png)
 
 ![graph et metrique](images/graphLinux1.png)
 
